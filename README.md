@@ -57,7 +57,7 @@ Here are some of the ways you can engage on Twitter:
 
 **Hashtagging (#)** - A way to denote a certain topic or conversation. Makes it easier to follow certain trends. (Like #GameofThrones or #RubyonRails)
 
-**Liking** - When you “like” someone’s tweet, it show that you appreciate it.
+**Liking** - When you “like” someone’s tweet, it shows that you appreciate it.
 
 **Replying** - When you respond to another person’s tweet with your own tweet. It begins with the @username of the person you're replying.
 
@@ -81,3 +81,5 @@ Twitter is best for engaging with others and making connections. However, it can
 Twitter is like a cocktail party. It allows you to chat with others, and jump in and out of conversations. Twitter can also serve as a way to stay current in the tech industry by following news sites, thought leaders, and more. 
 
 In the end, always try to bring your Twitter conversations off the platform and into your inbox, on the phone/Skype, or a face-to-face coffee meeting. 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-twitter'>Twitter</a> on Learn.co and start learning to code for free.</p>
