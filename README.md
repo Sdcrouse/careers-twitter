@@ -2,11 +2,22 @@
 
 Like LinkedIn, Twitter is another social media network that can be beneficial for job seekers. Unlike LinkedIn, which is strictly professional, Twitter has some wiggle room to show off your personality and interests. Think of Twitter as a cocktail party — it’s more casual and conversational in nature. It’s the perfect place to engage with others and make connections. And then later (hopefully) bring those conversations outside the Twitter platform.
 
+## Twitter and Your Job Search 
+
+Twitter is best for engaging with others and making connections. However, it can also help with your job search more directly in these ways: 
+
+1. **Act as a research tool.** Twitter has a powerful search tool, making it great for researching companies and interviewers. You can learn a lot about a person by scrolling through their Twitter feed! 
+
+2. **Find job openings.** Some companies (or employees) will post openings on Twitter. Frequently they’ll use hashtags like #techjobs, #devjobs, #hiring, or #jobopening. You can find jobs by looking through relevant hashtags. Moreover, many companies have specific job handles, e.g. @googlejobs. 
+
+3. **Vetting.** Lastly, recruiters and hiring managers may look at your Twitter profile to get a sense of who you are and see if you’d be a good fit at the company. This may be before or even after a job interview. That said, be mindful about sharing polarizing content about political or religious beliefs. And anything you wouldn’t want a potential boss to see. 
+
 ## How Twitter Works 
 
-Twitter revolves around tweeting. This is like posting statuses. Because tweets are limited to 140 characters, it’s not the place to go to write long-form. (Save that for your blog!) Many people enjoy Twitter because of its brevity. It prevents people from getting stuck in 30-minute long conversations 
+Twitter revolves around tweeting. This is like posting statuses. Because tweets are limited to 280 characters, it’s not the place to go to write long-form. (Save that for your blog!) Many people enjoy Twitter because of its brevity. It prevents people from getting stuck in 30-minute long conversations.
 
 A hallmark of the Twitter platform is hashtags. (The # symbol.) Essentially, it’s a way to categorize messages based on topic/keyword. It allows people to follow related tweets and makes it easier to find tweets/users in Twitter’s Search. While using hashtags in your tweets is good, make sure to do so in moderation. #Hashtagging #every #word #in #your #tweet #is #not #necessary #and #looks #spammy.
+
 
 Unlike other social media platforms, like LinkedIn, Facebook, and Instagram, things move much quicker on Twitter. For this reason, it is perfectly acceptable to tweet multiple times a day — even right in a row. (Especially if you’re participating in a [Twitter chat](https://blog.bufferapp.com/twitter-chat-101) or tweeting during a live event.) 
 
@@ -41,15 +52,16 @@ There are no set rules on who you can and can’t follow on Twitter. (Unless the
 
 Again, Twitter is like a cocktail party or networking event. It’s perfect for short conversations. There’s no need to be too professional.
 
-One of the great things about Twitter is that you can tweet to anyone, and they’ll get a notification. This differentiates Twitter from other social media networks. However, just because you can tweet anyone doesn’t mean you should. Always be respectful. And don’t bombard people with Tweets. Especially someone you have never “met” (or spoken to) before. 
+One of the great things about Twitter is that you can tweet to anyone, and they’ll get a notification. This differentiates Twitter from other social media networks. However, just because you can tweet anyone doesn’t mean you should. Always be respectful. And don’t bombard people with Tweets. Especially someone you have never “met” (or spoken to) before.
 
 One Twitter hack you can use is turning on mobile notifications for when certain people tweet. When you do this, you’ll receive a notification whenever they tweet something.
 
-**Here's a use case of this:** You want to get the attention of a certain influencer...but they have thousands and thousands of followers. When you set up a notification, you can be one of the first to reply to their tweets. (For instance, if they ask a question.) When you reply right away, the chances of them seeing it are higher because they obviously are on their Twitter account at that time. 
+
+**Here's a use case of this:** You want to get the attention of a certain influencer...but they have thousands and thousands of followers. When you set up a notification, you can be one of the first to reply to their tweets. (For instance, if they ask a question.) When you reply right away, the chances of them seeing it are higher because they obviously are on their Twitter account at that time.
 
 Aside from engaging with others, you also want to tweet interesting/relevant things. For instance web development tips, industry news, pictures from an event, etc.
 
-Here are some of the ways you can engage on Twitter: 
+Here are some of the ways you can engage on Twitter:
 
 **Mentions (@)** - How to reference another user by using their handle in a tweet (e.g. @FlatironSchool). When you mention a user, they are notified.  
 
@@ -61,25 +73,20 @@ Here are some of the ways you can engage on Twitter:
 
 **Replying** - When you respond to another person’s tweet with your own tweet. It begins with the @username of the person you're replying.
 
-Check out [Twitter's helpful glossary](https://support.twitter.com/articles/166337) for more.
+Check out this helpful [Twitter glossary](https://help.twitter.com/en/glossary) for more.
 
 On Twitter, be mindful of having an appropriate mix of content that you tweet yourself, retweet from other users, and content you “like”.  
 
-## Twitter and Your Job Search 
 
-Twitter is best for engaging with others and making connections. However, it can also help with your job search more directly in these ways: 
-
-1. **Act as a research tool.** Twitter has a powerful search tool, making it great for researching companies and interviewers. You can learn a lot about a person by scrolling through their Twitter feed! 
-
-2. **Find job openings.** Some companies (or employees) will post openings on Twitter. Frequently they’ll use hashtags like #techjobs, #devjobs, #hiring, or #jobopening. You can find jobs by looking through relevant hashtags. Moreover, many companies have specific job handles, e.g. @googlejobs. 
-
-3. **Vetting.** Lastly, recruiters and hiring managers may look at your Twitter profile to get a sense of who you are and see if you’d be a good fit at the company. This may be before or even after a job interview. That said, be mindful about sharing polarizing content about political or religious beliefs. And anything you wouldn’t want a potential boss to see. 
-
-
-## Wrapping Up 
+## Final Thoughts
 
 Twitter is like a cocktail party. It allows you to chat with others, and jump in and out of conversations. Twitter can also serve as a way to stay current in the tech industry by following news sites, thought leaders, and more. 
 
 In the end, always try to bring your Twitter conversations off the platform and into your inbox, on the phone/Skype, or a face-to-face coffee meeting. 
+
+## Resources
+* [Twitter Is The Best Job Search Tool You’re Not Using — Here’s How You Can](https://www.huffingtonpost.com/2015/06/16/twitter-job-search_n_7571260.html)
+* [How to Use Twitter to Find a Job](https://biginterview.com/blog/2015/03/twitter-jobs.html)
+
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-twitter'>Twitter</a> on Learn.co and start learning to code for free.</p>
