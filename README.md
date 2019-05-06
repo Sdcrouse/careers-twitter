@@ -8,7 +8,7 @@ Twitter is best for engaging with others and making connections. However, it can
 
 1. **Act as a research tool.** Twitter has a powerful search tool, making it great for researching companies and interviewers. You can learn a lot about a person by scrolling through their Twitter feed! 
 
-2. **Find job openings.** Some companies (or employees) will post openings on Twitter. Frequently they’ll use hashtags like #techjobs, #devjobs, #hiring, or #jobopening. You can find jobs by looking through relevant hashtags. Moreover, many companies have specific job handles, e.g. @googlejobs. 
+2. **Find job openings.** Some companies (or employees) will post openings on Twitter. Frequently they’ll use hashtags like #techjobs, #devjobs, #designjobs, #datasiencejobs, #hiring, or #jobopening. You can find jobs by looking through relevant hashtags. Moreover, many companies have specific job handles, e.g. @googlejobs. 
 
 3. **Vetting.** Lastly, recruiters and hiring managers may look at your Twitter profile to get a sense of who you are and see if you’d be a good fit at the company. This may be before or even after a job interview. That said, be mindful about sharing polarizing content about political or religious beliefs. And anything you wouldn’t want a potential boss to see. 
 
@@ -40,12 +40,12 @@ Unlike a LinkedIn profile, there are far fewer components that make-up a Twitter
 
 There are no set rules on who you can and can’t follow on Twitter. (Unless their account is private.) Below are some suggestions of who you can follow: 
 
-1. Your peers who are also in the tech industry
+1. Peers who are also in your industry
 2. Influencers you admire (like Elon Musk) 
 3. Companies you’d like to keep tabs on (aka dream companies you’d like to work for) 
 4. People you want to keep tabs on (aka managers at that dream company)
-5. Web development (and related) blogs 
-6. Job forums (like @rorjobs)
+5. Blogs in your field of study
+6. Job forums
 
 
 ## Engaging with People on Twitter
@@ -87,6 +87,3 @@ In the end, always try to bring your Twitter conversations off the platform and 
 ## Resources
 * [Twitter Is The Best Job Search Tool You’re Not Using — Here’s How You Can](https://www.huffingtonpost.com/2015/06/16/twitter-job-search_n_7571260.html)
 * [How to Use Twitter to Find a Job](https://biginterview.com/blog/2015/03/twitter-jobs.html)
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-twitter'>Twitter</a> on Learn.co and start learning to code for free.</p>
