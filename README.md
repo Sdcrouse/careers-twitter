@@ -19,7 +19,7 @@ Twitter revolves around tweeting. This is like posting statuses. Because tweets 
 A hallmark of the Twitter platform is hashtags. (The # symbol.) Essentially, it’s a way to categorize messages based on topic/keyword. It allows people to follow related tweets and makes it easier to find tweets/users in Twitter’s Search. While using hashtags in your tweets is good, make sure to do so in moderation. #Hashtagging #every #word #in #your #tweet #is #not #necessary #and #looks #spammy.
 
 
-Unlike other social media platforms, like LinkedIn, Facebook, and Instagram, things move much quicker on Twitter. For this reason, it is perfectly acceptable to tweet multiple times a day — even right in a row. (Especially if you’re participating in a [Twitter chat](https://blog.bufferapp.com/twitter-chat-101) or tweeting during a live event.) 
+Unlike other social media platforms, like LinkedIn, Facebook, and Instagram, things move much more quickly on Twitter. For this reason, it is perfectly acceptable to tweet multiple times a day — even right in a row. (Especially if you’re participating in a [Twitter chat](https://blog.bufferapp.com/twitter-chat-101) or tweeting during a live event.) 
 
 Another feature on Twitter is direct messaging. However, you can only direct message people who follow you. 
 
